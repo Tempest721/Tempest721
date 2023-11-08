@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Implementing a SOC and Honeynet in Azure </b>
-  - [Implementing a SOC and Honeynet in Azure](https://github.com/Tempest721/Failed_RDP_Heat_Map)
+  - [Failed Brute Force RDP Honeypot with Heat Map](https://github.com/Tempest721/Failed_RDP_Heat_Map)
 
 
 
