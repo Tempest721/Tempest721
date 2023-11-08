@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Failed RPD Honeypot with Geolocation Heat Map </b>
-  - [Azure Honeypot with Failed RDP Heat Map](https://github.com/Tempest721/Failed_RDP_Heat_Map)
+- <b>Implementing a SOC and Honeynet in Azure </b>
+  - [Implementing a SOC and Honeynet in Azure](https://github.com/Tempest721/Failed_RDP_Heat_Map)
 
 
 
