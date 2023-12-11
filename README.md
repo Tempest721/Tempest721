@@ -1,4 +1,5 @@
 <h1>Hi, I'm Roland! <br/><a href="https://github.com/Tempest721"></a><a href="https://www.linkedin.com/in/roland-schaapveld/">Cybersecurity Professional</a></h1>
+<b>Welcome to my GitHub page.  Looking to expand my horizons and career in cyber security and bring value to those I serve.  If you have any ideas or need help with a project, then feel free to reach out to me on LinkedIn.</b>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
